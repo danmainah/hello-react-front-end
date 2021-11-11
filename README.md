@@ -28,7 +28,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ZeenatLawal/Hello-Rails-React/issues).
+Feel free to check the [issues page](https://github.com/danmainah/hello-rails-back-end/issues).
 
 ## Show your support
 
