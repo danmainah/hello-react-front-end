@@ -10,7 +10,7 @@
 
 ### To get a local copy run the following steps:
 
-- Clone the repository with `git clone https://github.com/danmainah/hello-rails-back-end.git`
+- Clone the repository with `git clone https://github.com/danmainah/hello-rails-front-end.git`
 - Open the folder with your code editor
 - Run `yarn install` to install all dependencies
 - Run `npm start` to start the app
@@ -28,7 +28,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/danmainah/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/danmainah/hello-rails-front-end/issues).
 
 ## Show your support
 
